@@ -1,0 +1,1105 @@
+filepath,label,subject,fold
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-1_100.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-1_101.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-1_112.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-1_114.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-1_120.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-1_144.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-2_109.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-2_117.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-2_127.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-2_154.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-3_105.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-3_117.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-3_121.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-3_137.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-4_107.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0035_MR1_mpr-4_123.jpg,MildDemented,OAS1_0035,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-1_108.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-1_131.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-2_104.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-2_123.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-2_128.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-2_131.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-2_152.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-3_117.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-3_119.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-3_122.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-3_126.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-3_135.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-3_138.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-3_144.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-4_121.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0073_MR1_mpr-4_132.jpg,MildDemented,OAS1_0073,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-1_127.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-1_137.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-1_140.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-1_159.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-1_160.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-2_106.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-2_109.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-2_110.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-2_132.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-2_142.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-2_145.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-2_146.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-3_114.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-3_146.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-3_151.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0185_MR1_mpr-4_119.jpg,MildDemented,OAS1_0185,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-1_105.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-1_143.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-2_126.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-3_113.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-3_114.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-3_117.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-3_124.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-3_126.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-3_129.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-3_130.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-3_141.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-4_104.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-4_125.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-4_127.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-4_135.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Mild Dementia/OAS1_0291_MR1_mpr-4_159.jpg,MildDemented,OAS1_0291,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-1_100.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-1_130.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-1_136.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-1_153.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-2_151.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-3_140.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_107.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_122.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_124.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_126.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_135.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_143.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_148.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_149.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_151.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0004_MR1_mpr-4_158.jpg,NonDemented,OAS1_0004,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-1_103.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-1_142.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-2_132.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-2_133.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-2_150.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-2_159.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-3_102.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-3_110.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-3_139.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-3_147.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-3_160.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-4_109.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-4_113.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-4_115.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-4_122.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0010_MR1_mpr-4_131.jpg,NonDemented,OAS1_0010,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-1_120.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-1_135.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-1_158.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-2_109.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-2_110.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-2_120.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-2_131.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-2_142.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-2_146.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-3_104.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-3_152.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-4_114.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-4_128.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-4_142.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-4_156.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0017_MR1_mpr-4_159.jpg,NonDemented,OAS1_0017,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-1_123.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-1_131.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-1_134.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-1_140.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-1_148.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-1_154.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-1_158.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-2_110.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-2_125.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-2_157.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-3_102.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-3_106.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-3_144.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-3_146.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-3_150.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0026_MR1_mpr-3_159.jpg,NonDemented,OAS1_0026,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-1_127.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-1_146.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-1_150.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-1_153.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-1_160.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-2_114.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-2_127.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-2_131.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-2_134.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-2_149.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-3_118.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-3_127.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-4_102.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-4_115.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-4_130.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0033_MR1_mpr-4_149.jpg,NonDemented,OAS1_0033,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-1_114.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-1_135.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-2_101.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-2_116.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-2_144.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-2_149.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-3_100.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-3_118.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-3_120.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-3_153.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-3_154.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-4_116.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-4_121.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-4_153.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-4_154.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0043_MR1_mpr-4_160.jpg,NonDemented,OAS1_0043,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-1_102.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-1_109.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-1_155.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-1_156.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-2_112.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-2_113.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-2_121.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-2_133.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-2_145.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-3_140.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-3_153.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-4_105.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-4_111.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-4_124.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-4_127.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0050_MR1_mpr-4_129.jpg,NonDemented,OAS1_0050,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-1_111.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-1_112.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-1_123.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-1_156.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-2_144.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-2_156.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-3_110.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-3_113.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-3_121.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-3_127.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-3_138.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-3_155.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-4_104.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-4_119.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-4_139.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0058_MR1_mpr-4_154.jpg,NonDemented,OAS1_0058,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-1_114.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-1_128.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-1_146.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-1_154.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-2_133.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-2_141.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-2_155.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-3_102.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-3_139.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-3_144.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-3_150.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-3_153.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-4_101.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-4_102.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-4_136.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0064_MR1_mpr-4_148.jpg,NonDemented,OAS1_0064,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-1_116.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-1_123.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-1_140.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-1_156.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-1_157.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-2_109.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-2_149.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-2_160.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-3_104.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-3_115.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-3_121.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-3_125.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-3_143.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-3_144.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-4_150.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0071_MR1_mpr-4_160.jpg,NonDemented,OAS1_0071,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-1_103.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-1_111.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-1_124.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-1_154.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-2_101.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-2_129.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-2_138.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-2_148.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-2_153.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-2_154.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-2_160.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-3_121.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-3_145.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-3_158.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-4_121.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0077_MR1_mpr-4_148.jpg,NonDemented,OAS1_0077,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-1_114.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-1_135.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-1_148.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-1_156.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-1_159.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-2_128.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-2_159.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-3_105.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-3_131.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-3_138.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-3_140.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-4_102.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-4_115.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-4_128.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-4_129.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0083_MR1_mpr-4_140.jpg,NonDemented,OAS1_0083,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-1_118.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-1_119.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-1_145.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-2_109.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-2_127.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-2_136.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-3_110.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-3_112.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-3_120.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-3_122.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-3_129.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-4_103.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-4_106.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-4_155.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-4_156.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0090_MR1_mpr-4_157.jpg,NonDemented,OAS1_0090,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-1_114.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-1_118.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-1_156.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-2_124.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-2_159.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-2_160.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-3_114.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-3_122.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-3_129.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-3_143.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-3_155.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-3_156.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-3_160.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-4_150.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-4_154.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0097_MR1_mpr-4_157.jpg,NonDemented,OAS1_0097,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-1_111.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-1_124.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-1_128.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-1_152.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-2_101.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-2_102.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-2_106.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-2_144.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-2_154.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-2_156.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-2_157.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-3_107.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-3_109.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-3_134.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-3_150.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0104_MR1_mpr-3_160.jpg,NonDemented,OAS1_0104,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-1_105.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-1_116.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-1_144.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-2_120.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-2_132.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-2_145.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-2_146.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-2_154.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-3_100.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-3_126.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-3_138.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-3_143.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-3_156.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-4_121.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-4_132.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0109_MR1_mpr-4_159.jpg,NonDemented,OAS1_0109,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-1_100.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-1_128.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-1_143.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-1_148.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-1_154.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-1_159.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-2_104.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-2_113.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-2_123.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-2_138.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-2_152.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-3_110.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-3_112.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-3_132.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-3_139.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0114_MR1_mpr-4_125.jpg,NonDemented,OAS1_0114,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-1_122.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-1_138.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-1_145.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-1_157.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-2_107.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-2_112.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-2_136.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-2_137.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-3_110.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-3_115.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-3_122.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-3_136.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-3_151.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-3_159.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-3_160.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0125_MR1_mpr-4_111.jpg,NonDemented,OAS1_0125,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-1_132.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-1_142.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-1_149.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-1_151.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-1_159.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-1_160.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-2_105.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-2_135.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-2_153.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-3_121.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-3_124.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-3_128.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-3_133.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-3_149.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-3_152.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0131_MR1_mpr-3_155.jpg,NonDemented,OAS1_0131,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-1_107.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-1_129.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-1_135.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-1_139.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-1_143.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-1_160.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-2_102.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-3_105.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-3_109.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-3_124.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-3_125.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-3_149.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-3_153.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-4_149.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-4_152.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0138_MR1_mpr-4_154.jpg,NonDemented,OAS1_0138,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-1_114.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-1_130.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-1_134.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-2_110.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-3_111.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-3_118.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-3_119.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-3_149.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-4_101.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-4_119.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR1_mpr-4_145.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR2_mpr-1_123.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR2_mpr-2_116.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR2_mpr-3_106.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR2_mpr-4_148.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0145_MR2_mpr-4_149.jpg,NonDemented,OAS1_0145,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-1_104.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-1_142.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-3_109.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-3_131.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-3_141.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-3_148.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-3_154.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_105.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_114.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_120.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_122.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_124.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_134.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_137.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_141.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0151_MR1_mpr-4_157.jpg,NonDemented,OAS1_0151,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-1_102.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-1_114.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-1_128.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-1_132.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-2_112.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-2_114.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-2_149.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-2_151.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-3_108.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-3_115.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-3_118.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-3_121.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-3_123.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-3_131.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-3_137.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0159_MR1_mpr-3_157.jpg,NonDemented,OAS1_0159,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-1_149.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-2_102.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-2_105.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-2_106.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-2_111.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-2_147.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-2_154.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-3_103.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-3_104.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-3_110.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-3_121.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-3_123.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-3_135.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-3_143.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-3_145.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0167_MR1_mpr-4_148.jpg,NonDemented,OAS1_0167,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-1_111.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-1_121.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-1_122.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-1_133.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-1_135.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-2_112.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-2_131.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-2_133.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-3_133.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-3_150.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-3_154.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-4_127.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-4_132.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-4_133.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-4_142.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0174_MR1_mpr-4_155.jpg,NonDemented,OAS1_0174,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_101.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_106.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_119.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_132.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_133.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_135.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_150.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_158.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-1_159.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-2_133.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-3_112.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-3_130.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-3_133.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-3_140.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-3_151.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0181_MR1_mpr-3_159.jpg,NonDemented,OAS1_0181,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-1_104.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-1_112.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-1_113.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-1_122.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-2_102.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-2_148.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-2_151.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-3_105.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-3_108.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-3_131.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-3_140.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-3_150.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-3_157.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-4_131.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-4_143.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0189_MR1_mpr-4_154.jpg,NonDemented,OAS1_0189,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-1_107.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-1_128.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-1_150.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-2_106.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-2_110.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-2_124.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-2_130.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-2_133.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-2_140.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-2_147.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-2_152.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-3_135.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-3_158.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-4_120.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-4_122.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0195_MR1_mpr-4_124.jpg,NonDemented,OAS1_0195,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_100.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_108.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_112.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_115.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_122.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_130.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_143.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_144.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_151.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-2_157.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-3_103.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-3_111.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-3_143.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-3_153.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-4_148.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0201_MR1_mpr-4_160.jpg,NonDemented,OAS1_0201,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-1_102.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-1_105.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-1_108.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-1_145.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-1_157.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-2_112.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-2_138.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-2_142.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-3_114.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-3_116.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-3_119.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-3_126.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-3_127.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-3_155.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-3_157.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0207_MR1_mpr-3_158.jpg,NonDemented,OAS1_0207,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-1_101.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-1_103.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-1_116.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-1_122.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-1_146.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-2_118.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-2_119.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-2_143.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-2_147.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-3_115.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-3_117.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-3_139.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-3_147.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-4_122.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-4_124.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0213_MR1_mpr-4_154.jpg,NonDemented,OAS1_0213,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-1_104.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-1_125.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-1_129.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-1_135.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-1_138.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-1_145.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-1_151.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-2_102.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-2_125.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-2_138.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-2_145.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-3_105.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-3_116.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-3_128.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-3_157.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0221_MR1_mpr-4_158.jpg,NonDemented,OAS1_0221,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-1_134.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-1_149.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-1_152.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-2_136.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-2_142.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-2_144.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-2_155.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-3_100.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-3_113.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-3_123.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-3_128.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-3_157.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-4_107.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-4_124.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-4_145.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0229_MR1_mpr-4_156.jpg,NonDemented,OAS1_0229,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-1_101.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-1_115.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-1_134.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-2_110.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-2_140.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-2_147.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-2_153.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-2_158.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-3_104.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-3_118.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-3_120.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-3_132.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-3_133.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-3_141.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-3_159.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0235_MR1_mpr-3_160.jpg,NonDemented,OAS1_0235,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-1_126.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-1_131.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-1_142.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-1_152.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-1_155.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-2_138.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-2_155.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-3_119.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-3_121.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-3_137.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-3_141.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-3_153.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-4_123.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-4_124.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-4_140.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0244_MR1_mpr-4_155.jpg,NonDemented,OAS1_0244,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-1_160.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-2_110.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-2_112.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-2_115.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-2_129.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-3_119.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-3_138.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-4_115.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-4_118.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-4_139.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-4_156.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-5_105.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-5_109.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-5_125.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-5_138.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0254_MR1_mpr-6_109.jpg,NonDemented,OAS1_0254,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-1_102.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-1_105.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-1_109.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-1_118.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-1_120.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-1_127.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-1_151.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-2_117.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-2_127.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-2_141.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-2_143.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-2_146.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-3_138.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-4_122.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-4_141.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0260_MR1_mpr-4_147.jpg,NonDemented,OAS1_0260,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-1_120.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-1_129.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-2_107.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-2_115.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-2_147.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-3_103.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-3_107.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-3_110.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-3_111.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-3_117.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-3_151.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-4_109.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-4_115.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-4_132.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-4_146.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0266_MR1_mpr-4_147.jpg,NonDemented,OAS1_0266,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-1_123.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-1_130.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-2_102.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-2_124.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-2_125.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-2_149.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-2_154.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-3_103.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-3_104.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-3_126.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-3_136.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-3_144.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-4_100.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-4_104.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-4_125.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0277_MR1_mpr-4_156.jpg,NonDemented,OAS1_0277,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-1_100.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-1_110.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-2_112.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-2_127.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-2_136.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-2_139.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-2_159.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-3_100.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-3_111.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-3_157.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-3_158.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-4_100.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-4_101.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-4_112.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-4_138.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0283_MR1_mpr-4_159.jpg,NonDemented,OAS1_0283,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-1_123.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-1_126.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-2_100.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-2_105.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-2_123.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-2_134.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-2_151.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-2_152.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-2_157.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-3_105.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-3_125.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-3_132.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-3_148.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-3_150.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-4_131.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0293_MR1_mpr-4_138.jpg,NonDemented,OAS1_0293,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-1_103.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-1_137.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-2_101.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-2_113.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-2_114.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-2_121.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-3_111.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-3_115.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-3_124.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-3_125.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-3_143.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-3_158.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-4_113.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-4_122.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-4_127.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0301_MR1_mpr-4_139.jpg,NonDemented,OAS1_0301,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-1_100.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-1_103.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-1_108.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-1_122.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-1_154.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-1_160.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-2_103.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-2_111.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-2_138.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-2_142.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-2_151.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-3_110.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-3_112.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-3_113.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-3_146.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0310_MR1_mpr-3_157.jpg,NonDemented,OAS1_0310,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-1_106.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-1_109.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-1_128.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-1_144.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-1_146.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-1_147.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-2_101.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-2_103.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-2_109.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-2_127.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-2_131.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-2_141.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-3_130.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-3_134.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-3_138.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0318_MR1_mpr-3_159.jpg,NonDemented,OAS1_0318,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-1_116.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-1_122.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-1_124.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-1_132.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-1_135.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-1_145.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-2_110.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-2_124.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-2_133.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-2_145.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-2_156.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-3_112.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-3_127.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-3_131.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-3_139.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0325_MR1_mpr-3_146.jpg,NonDemented,OAS1_0325,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-1_111.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-1_131.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-1_156.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-2_141.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-2_150.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-2_156.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-3_102.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-3_103.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-3_135.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-3_137.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-3_139.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-4_118.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-4_127.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-4_139.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-4_144.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0331_MR1_mpr-4_158.jpg,NonDemented,OAS1_0331,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-1_123.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-1_133.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-2_100.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-2_127.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-2_132.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-3_102.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-3_120.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-3_137.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-3_141.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-3_148.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-4_120.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-4_121.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-4_124.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-4_127.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-4_144.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0338_MR1_mpr-4_156.jpg,NonDemented,OAS1_0338,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-1_119.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-1_126.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-1_131.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-1_150.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-2_101.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-2_110.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-2_124.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-2_132.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-3_112.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-3_126.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-3_133.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-3_147.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-3_152.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-4_126.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-4_130.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0344_MR1_mpr-4_150.jpg,NonDemented,OAS1_0344,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-1_131.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-1_148.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-1_160.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-2_104.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-2_111.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-3_107.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-3_113.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-3_119.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-3_127.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-3_150.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-4_116.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-4_117.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-4_123.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-4_149.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-4_155.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0350_MR1_mpr-4_156.jpg,NonDemented,OAS1_0350,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-1_108.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-1_160.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-2_119.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-2_120.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-2_135.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-2_144.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-3_107.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-3_124.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-3_127.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-3_132.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-3_140.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-4_121.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-4_122.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-4_125.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-4_135.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0357_MR1_mpr-4_145.jpg,NonDemented,OAS1_0357,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-1_105.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-1_109.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-1_117.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-1_122.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-1_125.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-1_152.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-3_117.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-3_121.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-3_123.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-3_126.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-3_128.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-3_137.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-3_142.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-4_110.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-4_112.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0365_MR1_mpr-4_117.jpg,NonDemented,OAS1_0365,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-1_109.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-1_110.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-1_121.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-1_123.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-1_132.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-1_150.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-1_151.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-2_123.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-2_125.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-2_133.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-2_146.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-2_151.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-3_123.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-3_131.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-3_132.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0370_MR1_mpr-3_135.jpg,NonDemented,OAS1_0370,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-1_135.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-2_108.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-2_116.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-2_122.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-2_124.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-2_144.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-3_114.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-3_137.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-3_140.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-3_148.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-4_122.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-4_128.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-4_136.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-4_139.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-4_147.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Non Demented/OAS1_0377_MR1_mpr-4_153.jpg,NonDemented,OAS1_0377,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-1_122.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-1_123.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-1_128.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-1_145.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-1_153.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-2_111.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-2_119.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-2_121.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-2_128.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-2_144.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-3_105.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-3_108.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-3_148.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-3_149.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-3_152.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0016_MR1_mpr-3_160.jpg,VeryMildDemented,OAS1_0016,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-1_131.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-2_100.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-2_141.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-2_144.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-2_146.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-3_104.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-3_126.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-3_147.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-3_155.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-3_157.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-4_102.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-4_135.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-4_140.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-4_142.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-4_156.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0041_MR1_mpr-4_158.jpg,VeryMildDemented,OAS1_0041,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-1_120.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-1_125.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-1_132.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-1_134.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-2_127.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-3_111.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-3_124.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-3_131.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-3_148.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-3_151.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-4_120.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-4_134.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-4_139.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-4_147.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-4_152.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0082_MR1_mpr-4_160.jpg,VeryMildDemented,OAS1_0082,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-1_115.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-1_123.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-1_126.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-2_102.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-2_122.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-2_145.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-2_150.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-3_101.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-3_114.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-3_124.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-3_134.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-3_145.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-4_131.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-4_142.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-4_154.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0120_MR1_mpr-4_158.jpg,VeryMildDemented,OAS1_0120,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-1_118.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-1_148.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-2_100.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-2_121.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-2_124.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-2_128.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-2_144.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-2_157.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-3_131.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-3_134.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-3_160.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-4_114.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-4_118.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-4_134.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-4_150.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0155_MR1_mpr-4_152.jpg,VeryMildDemented,OAS1_0155,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-1_110.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-1_120.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-1_137.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-1_153.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-2_113.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-2_124.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-2_138.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-2_158.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-3_107.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-3_116.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-3_120.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-3_124.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-3_159.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-4_143.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-4_148.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0179_MR1_mpr-4_159.jpg,VeryMildDemented,OAS1_0179,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-1_150.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-2_100.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-2_117.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-2_151.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-3_109.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-3_138.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_101.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_109.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_110.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_119.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_131.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_133.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_142.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_148.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_154.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0233_MR1_mpr-4_156.jpg,VeryMildDemented,OAS1_0233,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-1_141.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-2_106.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-2_124.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-2_143.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-2_154.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-2_156.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-3_101.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-3_111.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-3_121.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-3_143.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-3_155.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-3_160.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-4_108.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-4_117.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-4_145.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0263_MR1_mpr-4_151.jpg,VeryMildDemented,OAS1_0263,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-1_125.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-1_131.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-1_145.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-2_109.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-2_116.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-2_139.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-2_154.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-2_160.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-3_136.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-4_100.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-4_106.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-4_132.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-4_133.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-4_147.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-4_149.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0287_MR1_mpr-4_158.jpg,VeryMildDemented,OAS1_0287,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-1_101.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-1_114.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-1_134.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-1_143.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-1_153.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-1_157.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-1_160.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-3_124.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-3_129.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-4_102.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-4_115.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-4_125.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-4_128.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-4_145.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-4_146.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0304_MR1_mpr-4_156.jpg,VeryMildDemented,OAS1_0304,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-1_122.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-1_136.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-1_144.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-2_101.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-2_108.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-2_121.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-2_125.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-2_129.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-2_148.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-2_150.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-3_139.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-3_149.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-3_152.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-4_119.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-4_153.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0335_MR1_mpr-4_154.jpg,VeryMildDemented,OAS1_0335,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-1_103.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-1_114.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-1_141.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-1_156.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-1_158.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-2_128.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-2_135.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-2_149.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-3_114.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-3_115.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-3_124.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-3_155.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-4_100.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-4_105.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-4_139.jpg,VeryMildDemented,OAS1_0380,2
+/kaggle/input/datasets/ninadaithal/imagesoasis/Data/Very mild Dementia/OAS1_0380_MR1_mpr-4_156.jpg,VeryMildDemented,OAS1_0380,2
